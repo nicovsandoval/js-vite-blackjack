@@ -7,16 +7,11 @@
 
 ## Run and Debug
 
-```bash
-npm install
-```
+1. Clone repository
+2. execute ```npm install``` for restore the node modules
+3. Run in DevServ ```npm run dev```
 
-```bash
-npm run dev
-```
+## Build production
 
-## Build
-
-```bash
-npm run build
-```
+1. Execute ```npm run build```
+2. Deploy the folder ```./dist```
